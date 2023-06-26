@@ -12,8 +12,8 @@ Este repositorio contiene los proyectos relacionados con el CRUD (Create, Read, 
 
 Los proyectos están comprimidos en formato 7zip para su conveniencia. Puedes descargar los archivos utilizando los enlaces a continuación:
 
-- [Descargar Fake-Store.7z](enlace-a-fake-store.7z)
-- [Descargar flask-crud.7z](enlace-a-flask-crud.7z)
-- [Descargar react-store.7z](enlace-a-react-store.7z)
+- [Descargar Fake-Store.7z](https://github.com/Manuel-Espinosa/flask-basic-crud/blob/main/Fake-Store.7z)
+- [Descargar flask-crud.7z](https://github.com/Manuel-Espinosa/flask-basic-crud/blob/main/flask-crud.7z)
+- [Descargar react-store.7z](https://github.com/Manuel-Espinosa/flask-basic-crud/blob/main/react-store.7z)
 
 En los proyectos Front debes usar ```npm i``` para instalar las dependencias necesarias.
